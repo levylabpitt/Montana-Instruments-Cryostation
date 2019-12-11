@@ -19,8 +19,8 @@
 				<Item Name="Post-Build Custom Action.vi" Type="VI" URL="../../build support/Post-Build Custom Action.vi"/>
 				<Item Name="7zSD.sfx" Type="Document" URL="../../build support/7zSD.sfx"/>
 				<Item Name="7zS2.sfx" Type="Document" URL="../../build support/7zS2.sfx"/>
-				<Item Name="MI Cryostation.vipb" Type="Document" URL="../../build support/MI Cryostation.vipb"/>
 				<Item Name="Cryostation.ico" Type="Document" URL="../../build support/Cryostation.ico"/>
+				<Item Name="Cryostation.vipb" Type="Document" URL="../../build support/Cryostation.vipb"/>
 			</Item>
 			<Item Name="instrument.Cryostation.lvclass" Type="LVClass" URL="../instrument.Cryostation/instrument.Cryostation.lvclass"/>
 			<Item Name="Instrument.Cryostation UI.lvclass" Type="LVClass" URL="../instrument.Cryostation UI/Instrument.Cryostation UI.lvclass"/>
@@ -1055,8 +1055,9 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{78715B98-E3A5-406B-B04D-6BB132300DCF}</Property>
-				<Property Name="Bld_version.build" Type="Int">3</Property>
+				<Property Name="Bld_version.build" Type="Int">4</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Bld_version.patch" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Cryostation Monitor and Control.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/Cryostation Monitor and Control/Application/Cryostation Monitor and Control.exe</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
@@ -1156,7 +1157,7 @@
 				<Property Name="INST_buildSpecName" Type="Str">Cryostation Installer</Property>
 				<Property Name="INST_defaultDir" Type="Str">{F6D99E8D-61E3-4D0F-9EB0-6375D587E25E}</Property>
 				<Property Name="INST_productName" Type="Str">Cryostation</Property>
-				<Property Name="INST_productVersion" Type="Str">1.0.0</Property>
+				<Property Name="INST_productVersion" Type="Str">1.0.1</Property>
 				<Property Name="InstSpecBitness" Type="Str">32-bit</Property>
 				<Property Name="InstSpecVersion" Type="Str">16008024</Property>
 				<Property Name="MSI_arpCompany" Type="Str">University of Pittsburgh</Property>
