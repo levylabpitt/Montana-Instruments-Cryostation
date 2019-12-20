@@ -1051,7 +1051,7 @@
 				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
-				<Property Name="Bld_localDestDir" Type="Path">../builds/Cryostation Monitor and Control/Application</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../builds/Cryostation/Application</Property>
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{78715B98-E3A5-406B-B04D-6BB132300DCF}</Property>
@@ -1059,14 +1059,14 @@
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Bld_version.patch" Type="Int">2</Property>
 				<Property Name="Destination[0].destName" Type="Str">Cryostation Monitor and Control.exe</Property>
-				<Property Name="Destination[0].path" Type="Path">../builds/Cryostation Monitor and Control/Application/Cryostation Monitor and Control.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/Cryostation/Application/Cryostation Monitor and Control.exe</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
-				<Property Name="Destination[1].path" Type="Path">../builds/Cryostation Monitor and Control/Application/data</Property>
+				<Property Name="Destination[1].path" Type="Path">../builds/Cryostation/Application/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/Cryostation/build support/Cryostation.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{2E09CE3E-B3ED-4A45-A61C-C7FD851D6924}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{7913CC82-4A15-4C7E-A530-5CD1F1370E16}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Cryostation/Cryostation Monitor and Control.vi</Property>
@@ -1175,7 +1175,7 @@
 				<Property Name="Source[0].File[0].name" Type="Str">Cryostation Monitor and Control.exe</Property>
 				<Property Name="Source[0].File[0].Shortcut[0].destIndex" Type="Int">0</Property>
 				<Property Name="Source[0].File[0].Shortcut[0].name" Type="Str">Cryostation</Property>
-				<Property Name="Source[0].File[0].Shortcut[0].subDir" Type="Str">PPMS Monitor and Control</Property>
+				<Property Name="Source[0].File[0].Shortcut[0].subDir" Type="Str">LevyLab</Property>
 				<Property Name="Source[0].File[0].ShortcutCount" Type="Int">1</Property>
 				<Property Name="Source[0].File[0].tag" Type="Str">{35FE48D6-69F5-42A1-8DB3-A62A5C924E95}</Property>
 				<Property Name="Source[0].FileCount" Type="Int">1</Property>
