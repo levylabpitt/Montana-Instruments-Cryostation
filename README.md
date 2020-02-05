@@ -1,6 +1,6 @@
-# MI Cryostation
+# Montana Instruments Cryostation
 
-VIs for interfacing with Montana Instruments Cryostation
+VIs for interfacing with [Montana Instruments](https://www.montanainstruments.com/) Cryostation
 
 ## Installation
 - LabVIEW 2016 32-bit required
