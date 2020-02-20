@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2019-12-11 09:18:11" Modified_Date="2020-02-05 11:31:04" Creator="Patrick Irvin" Comments="" ID="fdc32d35e26b19bfbe5a8dbd0fd46218">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2019-12-11 09:18:11" Modified_Date="2020-02-20 11:59:01" Creator="Patrick Irvin" Comments="" ID="9e748c37c9696231220f59290f811f57">
   <Library_General_Settings>
     <Package_File_Name>LevyLab_lib_Cryostation_Instrument</Package_File_Name>
-    <Library_Version>1.1.1.8</Library_Version>
+    <Library_Version>1.1.2.9</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\lvsrc</Library_Source_Folder>
     <Library_Output_Folder>..\builds</Library_Output_Folder>
@@ -34,9 +34,8 @@
       <Copyright/>
       <Packager/>
       <URL/>
-      <Release_Notes>[1.1.1.7]
-- update the way Cryostation Client.vi handles port and address configuration
-- build w/ Instrument.lvclass v1.4.2.53</Release_Notes>
+      <Release_Notes>[1.1.2.8]
+- update to work with Instrument v1.5.8.70</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -228,7 +227,7 @@
         <Path>..\lvsrc\instrument.Cryostation\Get Temperature.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>EF6011D6DC10AFD4E5808744D3EBFDEA</GUID>
+      <GUID>2D0D8A4AC7D284C5450006B55F89F079</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
