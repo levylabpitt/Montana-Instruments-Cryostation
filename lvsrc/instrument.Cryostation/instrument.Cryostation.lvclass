@@ -61,13 +61,13 @@
 			</Item>
 		</Item>
 		<Item Name="Cryostation Client.vi" Type="VI" URL="../Cryostation Client.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(U!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E"4#%2B&gt;'%A&lt;X6U!!!51$$`````#U.P&lt;7VB&lt;G1A&lt;X6U!%:!=!!?!!!A(GFO=X2S&gt;7VF&lt;H1O1X*Z&lt;X.U982J&lt;WYO&lt;(:D&lt;'&amp;T=Q!!'GFO=X2S&gt;7VF&lt;H1O1X*Z&lt;X.U982J&lt;WYA&lt;X6U!!!%!!!!%%!Q`````Q&gt;B:'2S:8.T!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!#E"4"%2B&gt;'%!!'1!]1!!!!!!!!!#(GFO=X2S&gt;7VF&lt;H1O1X*Z&lt;X.U982J&lt;WYO&lt;(:D&lt;'&amp;T=R&amp;$&lt;WVN97ZE=SVF&lt;H6N,G.U&lt;!!L1"9!!A^(:81A6'6N='6S982V=G5':W6U17RM!!!(1W^N&lt;7&amp;O:!"%1(!!(A!!)"ZJ&lt;H.U=H6N:7ZU,E.S?7^T&gt;'&amp;U;7^O,GRW9WRB=X-!!"FJ&lt;H.U=H6N:7ZU,E.S?7^T&gt;'&amp;U;7^O)'FO!'%!]!!-!!-!"!!&amp;!!9!"Q!(!!=!#!!*!!I!#Q!-!Q!!?!!!$1A!!!E!!!!*!!!!$1M!!!!!!!!!!!!!!!!!!1I!!!!+!!!!#!!!!!A!!!!+!!!.!!!!$!!!!!!!!!!!!!!"!!U!!!!!</Property>
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(U!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E"4#%2B&gt;'%A&lt;X6U!!!51$$`````#U.P&lt;7VB&lt;G1A&lt;X6U!%:!=!!?!!!A(GFO=X2S&gt;7VF&lt;H1O1X*Z&lt;X.U982J&lt;WYO&lt;(:D&lt;'&amp;T=Q!!'GFO=X2S&gt;7VF&lt;H1O1X*Z&lt;X.U982J&lt;WYA&lt;X6U!!!%!!!!%%!Q`````Q&gt;B:'2S:8.T!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!#E"4"%2B&gt;'%!!'1!]1!!!!!!!!!#(GFO=X2S&gt;7VF&lt;H1O1X*Z&lt;X.U982J&lt;WYO&lt;(:D&lt;'&amp;T=R&amp;$&lt;WVN97ZE=SVF&lt;H6N,G.U&lt;!!L1"9!!A^(:81A6'6N='6S982V=G5':W6U17RM!!!(1W^N&lt;7&amp;O:!"%1(!!(A!!)"ZJ&lt;H.U=H6N:7ZU,E.S?7^T&gt;'&amp;U;7^O,GRW9WRB=X-!!"FJ&lt;H.U=H6N:7ZU,E.S?7^T&gt;'&amp;U;7^O)'FO!'%!]!!-!!-!"!!&amp;!!9!"Q!(!!=!#!!*!!I!#Q!-!Q!!?!!!$1A!!!E!!!!*!!!!$1M!!!!!!!!!!!!!!!!!!AA!!!!+!!!!#!!!!!A!!!!+!!!.!!!!$!!!!!!!!!!!!!!"!!U!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 		</Item>
 	</Item>
 	<Item Name="Methods (Overrides)" Type="Folder">
@@ -111,7 +111,7 @@
 			<Property Name="NI.ClassItem.State" Type="Int">1115685392</Property>
 			<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 		</Item>
-		<Item Name="SMO Public API - constant.vi" Type="VI" URL="../SMO Public API - constant.vi">
+		<Item Name="Get SMO Public API.vi" Type="VI" URL="../Get SMO Public API.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;N!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!""!-0````](1W^N&lt;7&amp;O:!!71%!!!@````]!"1B$&lt;WVN97ZE=Q!!2E"Q!"Y!!#!?;7ZT&gt;(*V&lt;76O&gt;#Z$=HFP=X2B&gt;'FP&lt;CZM&gt;G.M98.T!!!;;7ZT&gt;(*V&lt;76O&gt;#Z$=HFP=X2B&gt;'FP&lt;C"P&gt;81!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!2%"Q!"Y!!#!?;7ZT&gt;(*V&lt;76O&gt;#Z$=HFP=X2B&gt;'FP&lt;CZM&gt;G.M98.T!!!:;7ZT&gt;(*V&lt;76O&gt;#Z$=HFP=X2B&gt;'FP&lt;C"J&lt;A"5!0!!$!!$!!1!"A!(!!1!"!!%!!1!#!!%!!1!#1-!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!EA!!!!!"!!I!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">256</Property>
@@ -121,7 +121,7 @@
 			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 			<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 		</Item>
-		<Item Name="SMO Name - constant.vi" Type="VI" URL="../SMO Name - constant.vi">
+		<Item Name="Get SMO Name.vi" Type="VI" URL="../Get SMO Name.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;:!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"*!-0````])5UV0)%ZB&lt;75!!%:!=!!?!!!A(GFO=X2S&gt;7VF&lt;H1O1X*Z&lt;X.U982J&lt;WYO&lt;(:D&lt;'&amp;T=Q!!'GFO=X2S&gt;7VF&lt;H1O1X*Z&lt;X.U982J&lt;WYA&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!%2!=!!?!!!A(GFO=X2S&gt;7VF&lt;H1O1X*Z&lt;X.U982J&lt;WYO&lt;(:D&lt;'&amp;T=Q!!'7FO=X2S&gt;7VF&lt;H1O1X*Z&lt;X.U982J&lt;WYA;7Y!6!$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!"!!%!!A#!!"Y!!!.#!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!!!!!!*!!!!!!!1!*!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -131,7 +131,7 @@
 			<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 			<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 		</Item>
-		<Item Name="SMO Port - constant.vi" Type="VI" URL="../SMO Port - constant.vi">
+		<Item Name="Get SMO Port.vi" Type="VI" URL="../Get SMO Port.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;3!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!N!"A!%5'^S&gt;!!!2E"Q!"Y!!#!?;7ZT&gt;(*V&lt;76O&gt;#Z$=HFP=X2B&gt;'FP&lt;CZM&gt;G.M98.T!!!;;7ZT&gt;(*V&lt;76O&gt;#Z$=HFP=X2B&gt;'FP&lt;C"P&gt;81!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!2%"Q!"Y!!#!?;7ZT&gt;(*V&lt;76O&gt;#Z$=HFP=X2B&gt;'FP&lt;CZM&gt;G.M98.T!!!:;7ZT&gt;(*V&lt;76O&gt;#Z$=HFP=X2B&gt;'FP&lt;C"J&lt;A"5!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!1!#!)!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!E!!!!!!"!!E!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
