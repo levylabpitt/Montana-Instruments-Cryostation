@@ -11,16 +11,14 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Cryostation" Type="Folder">
-			<Item Name="build support" Type="Folder">
-				<Item Name="Post-Build Custom Action.vi" Type="VI" URL="../../build support/Post-Build Custom Action.vi"/>
-				<Item Name="Cryostation.ico" Type="Document" URL="../../build support/Cryostation.ico"/>
-				<Item Name="Cryostation.vipb" Type="Document" URL="../../build support/Cryostation.vipb"/>
-			</Item>
-			<Item Name="instrument.Cryostation.lvclass" Type="LVClass" URL="../instrument.Cryostation/instrument.Cryostation.lvclass"/>
-			<Item Name="Instrument.Cryostation UI.lvclass" Type="LVClass" URL="../instrument.Cryostation UI/Instrument.Cryostation UI.lvclass"/>
-			<Item Name="Cryostation Monitor and Control.vi" Type="VI" URL="../Cryostation Monitor and Control.vi"/>
+		<Item Name="build support" Type="Folder">
+			<Item Name="Post-Build Custom Action.vi" Type="VI" URL="../../build support/Post-Build Custom Action.vi"/>
+			<Item Name="Cryostation.ico" Type="Document" URL="../../build support/Cryostation.ico"/>
+			<Item Name="Cryostation.vipb" Type="Document" URL="../../build support/Cryostation.vipb"/>
 		</Item>
+		<Item Name="instrument.Cryostation.lvclass" Type="LVClass" URL="../instrument.Cryostation/instrument.Cryostation.lvclass"/>
+		<Item Name="Instrument.Cryostation UI.lvclass" Type="LVClass" URL="../instrument.Cryostation UI/Instrument.Cryostation UI.lvclass"/>
+		<Item Name="Cryostation Monitor and Control.vi" Type="VI" URL="../Cryostation Monitor and Control.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
@@ -1048,6 +1046,11 @@
 				<Item Name="MGI Milliseconds Since Last Reset.vi" Type="VI" URL="/&lt;userlib&gt;/_MGI/Timing/MGI Milliseconds Since Last Reset.vi"/>
 				<Item Name="Current VIs Parent Directory__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/file/file.llb/Current VIs Parent Directory__ogtk.vi"/>
 				<Item Name="Instrument UI.lvclass" Type="LVClass" URL="/&lt;userlib&gt;/LevyLab/Levylab Instruments/SMOs/Instrument UI/Instrument UI.lvclass"/>
+				<Item Name="Instrument.VSource.lvclass" Type="LVClass" URL="/&lt;userlib&gt;/LevyLab/Levylab Instruments/Instrument Types/VSource/Instrument.VSource.lvclass"/>
+				<Item Name="Instrument.VNA.lvclass" Type="LVClass" URL="/&lt;userlib&gt;/LevyLab/Levylab Instruments/Instrument Types/VNA/Instrument.VNA.lvclass"/>
+				<Item Name="Instrument.CBridge.lvclass" Type="LVClass" URL="/&lt;userlib&gt;/LevyLab/Levylab Instruments/Instrument Types/CBridge/Instrument.CBridge.lvclass"/>
+				<Item Name="Instrument.Strain.lvclass" Type="LVClass" URL="/&lt;userlib&gt;/LevyLab/Levylab Instruments/Instrument Types/Strain/Instrument.Strain.lvclass"/>
+				<Item Name="Instrument.OpticalDelayLine.lvclass" Type="LVClass" URL="/&lt;userlib&gt;/LevyLab/Levylab Instruments/Instrument Types/Optical Delay Line/Instrument.OpticalDelayLine.lvclass"/>
 			</Item>
 			<Item Name="shell32.dll" Type="Document" URL="shell32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
@@ -1336,11 +1339,11 @@
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">../builds/Application/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/Cryostation/build support/Cryostation.ico</Property>
+				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/build support/Cryostation.ico</Property>
 				<Property Name="Source[0].itemID" Type="Str">{1083D27A-AB60-4D41-9333-9F342BC334C2}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Cryostation/Cryostation Monitor and Control.vi</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Cryostation Monitor and Control.vi</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="SourceCount" Type="Int">2</Property>
