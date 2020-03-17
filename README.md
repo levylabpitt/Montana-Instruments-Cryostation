@@ -13,7 +13,7 @@ VIs for interfacing with [Montana Instruments](https://www.montanainstruments.co
 
 ## Contributing
 
-Please contact [Patrick Irvin](p.irvin@levylab.org)
+Please contact [Patrick Irvin](https://github.com/ciozi137)
 
 ## License
 
