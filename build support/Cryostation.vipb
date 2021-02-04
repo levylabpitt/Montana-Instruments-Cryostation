@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2019-12-11 09:18:11" Modified_Date="2020-10-22 09:15:27" Creator="Patrick Irvin" Comments="" ID="f090df08b8c86bb85d0195f7dca302bb">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2019-12-11 09:18:11" Modified_Date="2021-02-03 14:57:51" Creator="Patrick Irvin" Comments="" ID="f69e7ec54aaf94a9b0cc28750fa913e4">
   <Library_General_Settings>
     <Package_File_Name>LevyLab_lib_Cryostation_Instrument</Package_File_Name>
-    <Library_Version>1.1.5.13</Library_Version>
+    <Library_Version>1.1.6.14</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\lvsrc</Library_Source_Folder>
     <Library_Output_Folder>..\builds\Package</Library_Output_Folder>
@@ -81,7 +81,8 @@
       <Packager/>
       <URL/>
       <Release_Notes>[1.1.5]
-- Update to Instrument v1.5.18</Release_Notes>
+- Update to Instrument v1.8.1
+- Update port number (55446)</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -273,7 +274,7 @@
         <Path>..\lvsrc\instrument.Cryostation\API\Get Temperature.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>AC0DDCB139BB5AD3798AE6F75FF8DA9B</GUID>
+      <GUID>04C2908879331F592CE0B5547490290E</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
