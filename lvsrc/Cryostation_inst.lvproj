@@ -16,6 +16,8 @@
 			<Item Name="Cryostation.ico" Type="Document" URL="../../build support/Cryostation.ico"/>
 			<Item Name="Cryostation.vipb" Type="Document" URL="../../build support/Cryostation.vipb"/>
 			<Item Name="Cryostation.vipc" Type="Document" URL="../../build support/Cryostation.vipc"/>
+			<Item Name="libzmq32.dll" Type="Document" URL="/&lt;vilib&gt;/addons/zeromq/libzmq32.dll"/>
+			<Item Name="lvzmq32.dll" Type="Document" URL="/&lt;vilib&gt;/addons/zeromq/lvzmq32.dll"/>
 		</Item>
 		<Item Name="instrument.Cryostation.lvclass" Type="LVClass" URL="../instrument.Cryostation/instrument.Cryostation.lvclass"/>
 		<Item Name="Instrument UI.Cryostation.lvclass" Type="LVClass" URL="../instrument.Cryostation UI/Instrument UI.Cryostation.lvclass"/>
@@ -1740,13 +1742,19 @@
 				<Property Name="Destination[1].path" Type="Path">../builds/Application/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/build support/Cryostation.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{E625A2B1-7CEC-44F5-A6A1-5F905658308A}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{2CEE23E9-BD05-435C-943F-48480FE81619}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Cryostation Monitor and Control.vi</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
-				<Property Name="SourceCount" Type="Int">2</Property>
+				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[2].itemID" Type="Ref">/My Computer/build support/libzmq32.dll</Property>
+				<Property Name="Source[2].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[3].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[3].itemID" Type="Ref">/My Computer/build support/lvzmq32.dll</Property>
+				<Property Name="Source[3].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="SourceCount" Type="Int">4</Property>
 				<Property Name="TgtF_companyName" Type="Str">University of Pittsburgh</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">Cryostation Application</Property>
 				<Property Name="TgtF_internalName" Type="Str">Cryostation Application</Property>
