@@ -213,6 +213,24 @@
 			</Item>
 		</Item>
 		<Item Name="subVIs" Type="Folder">
+			<Item Name="Cryostation.Get DBL (All).vi" Type="VI" URL="../private/Cryostation.Get DBL (All).vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;5!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%:!=!!?!!!A(GFO=X2S&gt;7VF&lt;H1O1X*Z&lt;X.U982J&lt;WYO&lt;(:D&lt;'&amp;T=Q!!'GFO=X2S&gt;7VF&lt;H1O1X*Z&lt;X.U982J&lt;WYA&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!%2!=!!?!!!A(GFO=X2S&gt;7VF&lt;H1O1X*Z&lt;X.U982J&lt;WYO&lt;(:D&lt;'&amp;T=Q!!'7FO=X2S&gt;7VF&lt;H1O1X*Z&lt;X.U982J&lt;WYA;7Y!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!%!!=$!!"Y!!!*!!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!!!!!!!I!!!U!!!!-!!!!!!!!!!!!!!%!#!!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+			</Item>
+			<Item Name="Cryostation.Get STR (All).vi" Type="VI" URL="../private/Cryostation.Get STR (All).vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;5!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%:!=!!?!!!A(GFO=X2S&gt;7VF&lt;H1O1X*Z&lt;X.U982J&lt;WYO&lt;(:D&lt;'&amp;T=Q!!'GFO=X2S&gt;7VF&lt;H1O1X*Z&lt;X.U982J&lt;WYA&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!%2!=!!?!!!A(GFO=X2S&gt;7VF&lt;H1O1X*Z&lt;X.U982J&lt;WYO&lt;(:D&lt;'&amp;T=Q!!'7FO=X2S&gt;7VF&lt;H1O1X*Z&lt;X.U982J&lt;WYA;7Y!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!%!!=$!!"Y!!!*!!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!!!!!!!I!!!U!!!!-!!!!!!!!!!!!!!%!#!!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1082130962</Property>
+			</Item>
 			<Item Name="Cryostation.Get DBL.vi" Type="VI" URL="../private/Cryostation.Get DBL.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%-!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!^!#A!)5G6T='^O=W5!!"B!=!!&amp;%7.P&lt;GZF9X2J&lt;WYA351A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!%%!Q`````Q&gt;$&lt;WVN97ZE!"B!=!!&amp;%'.P&lt;GZF9X2J&lt;WYA351A;7Y!!&amp;1!]!!-!!-!"!!&amp;!!9!"!!%!!1!"!!(!!1!#!!*!Q!!?!!!$1A!!!!!!!!*!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!AA!!!!)!!!!!!%!#A!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -303,7 +321,7 @@
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1117782544</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1115685392</Property>
 		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 	</Item>
 	<Item Name="instrument.Cryostation.TestLauncher.vi" Type="VI" URL="../instrument.Cryostation.TestLauncher.vi">
