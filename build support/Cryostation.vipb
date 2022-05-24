@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2019-12-11 09:18:11" Modified_Date="2022-05-23 19:44:19" Creator="Patrick Irvin" Comments="" ID="61b1f7adc0ac47004d00e10254f73f4a">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2019-12-11 09:18:11" Modified_Date="2022-05-23 22:33:33" Creator="Patrick Irvin" Comments="" ID="08605e08046f65691467a1059e2bc10b">
   <Library_General_Settings>
     <Package_File_Name>LevyLab_lib_Cryostation_Instrument</Package_File_Name>
-    <Library_Version>1.2.7.4</Library_Version>
+    <Library_Version>1.2.8.2</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\lvsrc</Library_Source_Folder>
     <Library_Output_Folder>..\builds\Package</Library_Output_Folder>
@@ -254,7 +254,7 @@
         <Path>..\lvsrc\instrument.Cryostation\API\Open.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C0384FAD3806D42DB643B600C66442CF</GUID>
+      <GUID>841362AF6F628E831BA983A9BCC96C05</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
