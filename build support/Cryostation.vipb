@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2019-12-11 09:18:11" Modified_Date="2025-05-15 08:16:10" Creator="Patrick Irvin" Comments="" ID="9029b6e16f104950a8bea85cc88ed4cc">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2019-12-11 09:18:11" Modified_Date="2025-09-22 12:47:04" Creator="Patrick Irvin" Comments="" ID="2fdc41b9883f236005f25b32b9b1d694">
   <Library_General_Settings>
     <Package_File_Name>LevyLab_lib_Cryostation_Instrument</Package_File_Name>
-    <Library_Version>1.3.0.7</Library_Version>
+    <Library_Version>1.3.1.7</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\lvsrc</Library_Source_Folder>
     <Library_Output_Folder>..\builds\Package</Library_Output_Folder>
@@ -17,7 +17,7 @@
   </Library_General_Settings>
   <Advanced_Settings>
     <Package_Dependencies>
-      <Additional_External_Dependencies>levylab_lib_levylab_instruments &gt;=1.15.1.34</Additional_External_Dependencies>
+      <Additional_External_Dependencies>levylab_lib_levylab_instruments &gt;=1.15.9.45</Additional_External_Dependencies>
     </Package_Dependencies>
     <Custom_Action_VIs>
       <Pre-Build_VI/>
@@ -34,7 +34,7 @@
       <Copyright/>
       <Packager/>
       <URL/>
-      <Release_Notes>- Update to Instrument Framework v1.15.1</Release_Notes>
+      <Release_Notes>- Update to Instrument Framework v1.15.9</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -255,7 +255,7 @@
         <Path>..\lvsrc\instrument.Cryostation\API\Close.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>810D69735C8FE7B3CBE4504EE9DF840D</GUID>
+      <GUID>11453FB83EB69F6E5F9B61B2CF8A96A0</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
