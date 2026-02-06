@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2019-12-11 09:18:11" Modified_Date="2026-02-06 08:01:09" Creator="Patrick Irvin" Comments="" ID="89a958b8d5939c973fe4c28f67ea90bd">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2019-12-11 09:18:11" Modified_Date="2026-02-06 08:47:52" Creator="Patrick Irvin" Comments="" ID="c23998ba4109842e6600a291c7a2e725">
   <Library_General_Settings>
     <Package_File_Name>LevyLab_lib_Cryostation_Instrument</Package_File_Name>
-    <Library_Version>1.4.1.10</Library_Version>
+    <Library_Version>1.4.1.11</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\lvsrc</Library_Source_Folder>
     <Library_Output_Folder>..\builds\Package</Library_Output_Folder>
@@ -270,7 +270,7 @@
         <Path>..\lvsrc\instrument.Cryostation\API\getTemperatureTarget.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>141EEC580F3845745EC33330503AEDE2</GUID>
+      <GUID>4218AAA9EDE60C1A380DD7CC74E2966D</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
