@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2019-12-11 09:18:11" Modified_Date="2026-09-21 14:21:21" Creator="Patrick Irvin" Comments="" ID="5a195f9b1714b42872ee7e52d72f139d">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2019-12-11 09:18:11" Modified_Date="2026-10-01 16:32:39" Creator="Patrick Irvin" Comments="" ID="99224030ab0da97d45ed9d2f8bad676d">
   <Library_General_Settings>
     <Package_File_Name>LevyLab_lib_Cryostation_Instrument</Package_File_Name>
-    <Library_Version>1.4.6.18</Library_Version>
+    <Library_Version>1.4.7.19</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\lvsrc</Library_Source_Folder>
     <Library_Output_Folder>..\builds\Package</Library_Output_Folder>
@@ -35,7 +35,7 @@
       <Copyright/>
       <Packager/>
       <URL/>
-      <Release_Notes>- update linking for Instrument Framework 1.15.13</Release_Notes>
+      <Release_Notes>- Built with the Logger.Error release that fixes levylabpitt/Logger.Error #1 (the logger's CPU use grew with uptime).</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -270,7 +270,7 @@
         <Path>..\lvsrc\instrument.Cryostation\API\getTemperatureTarget.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>AAE75C8CB8C5A99BD8ED03BFAB41A80B</GUID>
+      <GUID>D1E5A9381CB1D3EF7C708D4B3899DD06</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
